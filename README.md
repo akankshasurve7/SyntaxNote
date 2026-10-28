@@ -44,3 +44,13 @@ This project helped me practice Java desktop application development, event hand
 **Akanksha Surve**
 
 GitHub: https://github.com/akankshasurve7
+
+## Screenshots
+
+Here are some screenshots of the SyntaxNote application.
+
+![SyntaxNote Screenshot 1](SyntaxNote1.png)
+
+![SyntaxNote Screenshot 2](SyntaxNote2.png)
+
+![SyntaxNote Screenshot 3](SyntaxNote3.png)
